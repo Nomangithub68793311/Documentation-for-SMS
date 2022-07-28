@@ -1,0 +1,5 @@
+//The customer will register thorough our official website shannon.com and fill all his details through a contact form.
+
+//we will take 24 hours to make ready all his cedentials like login id and password 
+
+//after login, only admin can create super user and there can be four superuser to be created.Not more than four super user can be created.
